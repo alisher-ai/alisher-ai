@@ -21,3 +21,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/alisherabdulkhaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/alisherabdulkhaev" height="30" width="30" /></a>
 <a href="https://medium.com/@alisher_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alisher_ai" height="30" width="30" /></a>
 </p>
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=alisher0717&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
