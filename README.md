@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisher0717" alt="alisher0717" /> </p>
 
-- 🔭 I’m currently working on **Efficient Deep Learning**
+- 🔭 I’m currently working on **Data Efficient Deep Learning**
 
 - 📝 I regulary write articles on [https://medium.com/@alisher_ai](https://medium.com/@alisher_ai)
 
