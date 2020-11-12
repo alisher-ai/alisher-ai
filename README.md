@@ -7,6 +7,8 @@
 
 - 📝 I regulary write articles on [https://medium.com/@alisher_ai](https://medium.com/@alisher_ai)
 
+- Twitter: [@alisher_ai](https://twitter.com/alisher_ai)
+
 - 💬 Ask me about **Computer Vision**
 
 - 📫 How to reach me **alisher.abdulkhaev@gmail.com**
