@@ -9,7 +9,7 @@
 
 - 🐦 Twitter: [@alisher_ai](https://twitter.com/alisher_ai)
 
-- 👨‍💻 Personal Webpage: https://alisher0717.github.io
+- 👨‍💻 Personal Webpage: https://alisher-ai.github.io
 
 - 💬 Ask me about **Computer Vision**
 
