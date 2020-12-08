@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisher Abdulkhaev</h1>
 <h3 align="center">A passionate Machine Learning Engineer living in Tokyo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisher0717" alt="alisher0717" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisher-ai" alt="alisher-ai" /> </p>
 
 - 🔭 I’m currently working on **Data Efficient Deep Learning**
 
@@ -27,7 +27,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt=sklearn width="40" height="40"/></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher0717&layout=compact&hide=html" alt="alisher0717" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-ai&layout=compact&hide=html" alt="alisher-ai" /></p>
 
 
 
@@ -40,4 +40,4 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=alisher0717&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api?username=alisher-ai&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
