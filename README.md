@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Efficient Deep Learning**
 
-- 📝 I regulary write articles on [https://medium.com/@alisher_ai](https://medium.com/@alisher-ai)
+- 📝 I regulary write articles on [https://medium.com/@alisher-ai](https://medium.com/@alisher-ai)
 
 - 🐦 Twitter: [@alisher_ai](https://twitter.com/alisher_ai)
 
