@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alisher Abdulkhaev</h1>
-<h3 align="center">A passionate Machine Learning Engineer living in Tokyo</h3>
+<h3 align="center">CTO & Co-Founder at Kanaria Tech. Living in Tokyo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisher-ai" alt="alisher-ai" /> </p>
 
-- 🔭 I’m currently working on **Data Efficient Deep Learning**
+- 🔭 Building AI Foundation Model for **Social Robot Navigation**.
 
-- 📝 I regulary write articles on [https://medium.com/@alisher-ai](https://medium.com/@alisher-ai)
+- 📝 I write articles on [https://medium.com/@alisher-ai](https://medium.com/@alisher-ai)
 
 - 🐦 Twitter: [@alisher_ai](https://twitter.com/alisher_ai)
 
